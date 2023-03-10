@@ -1,3 +1,3 @@
 # hello-world
-My first repository on GitHub.
-I love music.
+# To improve is to change.
+# I love music!
